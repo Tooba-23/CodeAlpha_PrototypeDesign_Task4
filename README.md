@@ -112,4 +112,4 @@ Conclusion
 Alvira’s Kitchen app design focuses on providing a seamless, intuitive, and visually appealing experience for users. By applying modern UI/UX principles and keeping the design simple, clean, and functional, the app aims to provide a smooth journey from discovering food to placing an order and tracking it in real-time. The clickable prototype created in Figma reflects these principles and offers a solid foundation for future development.
 
 Prototype Link:
-[Click here to view the Figma Prototype]([your-figma-prototype-link](https://www.figma.com/proto/ehL6Xu4d7DZFa2DHXRtzxx/CodeAlpha_Prototype_Design_Task4?node-id=0-1&t=fM1qSB7KDE4aWrjt-1))
+[Click here to view the Figma Prototype](https://www.figma.com/proto/ehL6Xu4d7DZFa2DHXRtzxx/CodeAlpha_Prototype_Design_Task4?node-id=0-1&t=fM1qSB7KDE4aWrjt-1)
