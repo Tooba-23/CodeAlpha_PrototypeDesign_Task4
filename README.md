@@ -1,5 +1,5 @@
 # CodeAlpha_PrototypeDesign_Task4
-Designed a clickable prototype for Alvira's Kitchen, a food delivery app using Figma/Adobe XD to enhance the user experience.
+Designed a clickable prototype for Alvira's Kitchen, a food delivery app using Figma to enhance the user experience.
 
 Explanation for Task 4: Food App Prototype Design - Alvira’s Kitchen
 Introduction
